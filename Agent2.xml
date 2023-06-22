@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cfg>
+    <name>Agent2</name>
+    <loadPower>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+        <power>5.0</power>
+    </loadPower>
+</cfg>
